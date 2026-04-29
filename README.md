@@ -12,8 +12,10 @@ The team is based in Mainland China.
 
 所有提供的代码、程序及工程文件均遵循GPL许可证协议。
 
-本队伍的所在地为中国大陆（内地）。
+本队伍的所在地为中国大陆（内地）
+<img width="768" height="1024" alt="bfd70060ab661a7745364c0eddfa1f83" src="https://github.com/user-attachments/assets/0b291529-4f5e-44a6-974a-d05d84037059" />
 
-<img title="MARK" src="file:///C:/Users/36230/Desktop/bfd70060ab661a7745364c0eddfa1f83.jpg" alt="" data-align="center" width="384">
 
-                                                    ***Consensus Robotics***
+
+
+                                                   

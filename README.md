@@ -1,5 +1,3 @@
-<img width="1091" height="800" alt="image" src="https://github.com/user-attachments/assets/88ab7181-392d-474b-b024-51f57f52b4fb" /># WRO-2026
-
 This is the public repository of the WRO Future Engineer 2026 season team from Nanjing No. 29 Middle School. Established in accordance with relevant regulations and standards, it stores and makes public the team's engineering documents, drawings, materials, software, and reports.
 All provided code, programs, and engineering documents are subject to the GPL license.
 The team is based in Mainland China.
